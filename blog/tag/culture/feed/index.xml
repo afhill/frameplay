@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>culture &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<atom:link href="/blog/tag/culture/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Frameplay helps software companies achieve sustained growth through customer-centric practices.</description>
+	<lastBuildDate>Fri, 27 Oct 2017 13:05:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://i0.wp.com/frameplay.co/fc/wp-content/uploads/2017/03/cropped-icon-only-trans-1.png?fit=32%2C32</url>
+	<title>culture &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">135574247</site>	<item>
+		<title>Your Open Innovation Program is Going to Fail. Here&#8217;s Why.</title>
+		<link>/blog/open-innovation-program-fail/</link>
+				<comments>/blog/open-innovation-program-fail/#respond</comments>
+				<pubDate>Sat, 23 Sep 2017 19:39:56 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Hill]]></dc:creator>
+				<category><![CDATA[open innovation]]></category>
+		<category><![CDATA[accountability]]></category>
+		<category><![CDATA[culture]]></category>
+
+		<guid isPermaLink="false">/?p=162</guid>
+				<description><![CDATA[<p>First off, it’s not your fault. We’ve all read the articles extolling the virtues of lean start-up; empowering internal employees to experiment and bring forth new products and services. We want our employees to feel engaged, and have an outlet to share their recommendations and suggestions. How could having passionate people contribute ideas for the betterment &#8230; </p>
+<p class="link-more"><a href="/blog/open-innovation-program-fail/" class="more-link">Continue reading<span class="screen-reader-text"> "Your Open Innovation Program is Going to Fail. Here&#8217;s Why."</span></a></p>
+<p>The post <a rel="nofollow" href="/blog/open-innovation-program-fail/">Your Open Innovation Program is Going to Fail. Here&#8217;s Why.</a> appeared first on <a rel="nofollow" href="/">Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</a>.</p>
+]]></description>
+						<wfw:commentRss>/blog/open-innovation-program-fail/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">162</post-id>	</item>
+	</channel>
+</rss>

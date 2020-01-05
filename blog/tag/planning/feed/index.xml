@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>planning &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<atom:link href="/blog/tag/planning/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Frameplay helps software companies achieve sustained growth through customer-centric practices.</description>
+	<lastBuildDate>Wed, 25 Oct 2017 15:07:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://i0.wp.com/frameplay.co/fc/wp-content/uploads/2017/03/cropped-icon-only-trans-1.png?fit=32%2C32</url>
+	<title>planning &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">135574247</site>	<item>
+		<title>Sustaining Growth With The Three Horizons Model for Innovation</title>
+		<link>/blog/sustaining-growth-three-horizons-model-innovation/</link>
+				<comments>/blog/sustaining-growth-three-horizons-model-innovation/#respond</comments>
+				<pubDate>Sat, 23 Sep 2017 19:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Hill]]></dc:creator>
+				<category><![CDATA[innovation portfolio]]></category>
+		<category><![CDATA[three horizons]]></category>
+		<category><![CDATA[innovation]]></category>
+		<category><![CDATA[planning]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[product lifecycle]]></category>
+
+		<guid isPermaLink="false">/?p=160</guid>
+				<description><![CDATA[<p>In 2000, Consultants from McKinsey &#38; Company, Inc proposed a portfolio management approach known as the Three Horizons. Each horizon describes the maturity and relative risk of projects, and is a way to allow companies to manage a portfolio of projects for current and future growth. The model was first introduced in the book “The Alchemy &#8230; </p>
+<p class="link-more"><a href="/blog/sustaining-growth-three-horizons-model-innovation/" class="more-link">Continue reading<span class="screen-reader-text"> "Sustaining Growth With The Three Horizons Model for Innovation"</span></a></p>
+<p>The post <a rel="nofollow" href="/blog/sustaining-growth-three-horizons-model-innovation/">Sustaining Growth With The Three Horizons Model for Innovation</a> appeared first on <a rel="nofollow" href="/">Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</a>.</p>
+]]></description>
+						<wfw:commentRss>/blog/sustaining-growth-three-horizons-model-innovation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">160</post-id>	</item>
+	</channel>
+</rss>

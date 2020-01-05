@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>inspiration &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<atom:link href="/blog/tag/inspiration/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Frameplay helps software companies achieve sustained growth through customer-centric practices.</description>
+	<lastBuildDate>Wed, 25 Oct 2017 23:46:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://i0.wp.com/frameplay.co/fc/wp-content/uploads/2017/03/cropped-icon-only-trans-1.png?fit=32%2C32</url>
+	<title>inspiration &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">135574247</site>	<item>
+		<title>Investing for Your Product&#8217;s Retirement</title>
+		<link>/blog/investing-products-retirement/</link>
+				<comments>/blog/investing-products-retirement/#respond</comments>
+				<pubDate>Sat, 23 Sep 2017 18:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Hill]]></dc:creator>
+				<category><![CDATA[innovation portfolio]]></category>
+		<category><![CDATA[customer research]]></category>
+		<category><![CDATA[design thinking]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[investment]]></category>
+
+		<guid isPermaLink="false">/?p=149</guid>
+				<description><![CDATA[<p>Logic isn’t what drives our behavior. And it explains why so many companies aren’t investing in innovation.</p>
+<p>The post <a rel="nofollow" href="/blog/investing-products-retirement/">Investing for Your Product&#8217;s Retirement</a> appeared first on <a rel="nofollow" href="/">Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</a>.</p>
+]]></description>
+						<wfw:commentRss>/blog/investing-products-retirement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">149</post-id>	</item>
+		<item>
+		<title>Not Just for Designers: Design Thinking is Everywhere</title>
+		<link>/blog/not-just-designers-design-thinking-everywhere/</link>
+				<comments>/blog/not-just-designers-design-thinking-everywhere/#respond</comments>
+				<pubDate>Sat, 23 Sep 2017 18:09:26 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Hill]]></dc:creator>
+				<category><![CDATA[design thinking]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[ideation]]></category>
+		<category><![CDATA[implementation]]></category>
+		<category><![CDATA[innovation]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[saas]]></category>
+
+		<guid isPermaLink="false">/?p=145</guid>
+				<description><![CDATA[<p>If Agile software development changed how we delivered value to customers, and SaaS changed how we capture value from customers, Design Thinking changes EVERYTHING.</p>
+<p>The post <a rel="nofollow" href="/blog/not-just-designers-design-thinking-everywhere/">Not Just for Designers: Design Thinking is Everywhere</a> appeared first on <a rel="nofollow" href="/">Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</a>.</p>
+]]></description>
+						<wfw:commentRss>/blog/not-just-designers-design-thinking-everywhere/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">145</post-id>	</item>
+	</channel>
+</rss>

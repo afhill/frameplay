@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>research &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<atom:link href="/blog/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Frameplay helps software companies achieve sustained growth through customer-centric practices.</description>
+	<lastBuildDate>Sun, 22 Oct 2017 22:07:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://i0.wp.com/frameplay.co/fc/wp-content/uploads/2017/03/cropped-icon-only-trans-1.png?fit=32%2C32</url>
+	<title>research &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">135574247</site>	<item>
+		<title>Need Help Recruiting Beta Users for an MVP You&#8217;re Testing?</title>
+		<link>/blog/recruiting-beta-users-mvp-customer-research/</link>
+				<comments>/blog/recruiting-beta-users-mvp-customer-research/#respond</comments>
+				<pubDate>Sun, 22 Oct 2017 16:03:15 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Hill]]></dc:creator>
+				<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">/?p=413</guid>
+				<description><![CDATA[<p>If you conduct any sort of customer research, chances are you&#8217;re spending too much time finding interviewees, and want to find a better way. One platform we&#8217;ve used both to recruit and to test new products ourselves is Erlibird. ErliBird gives you the power to beta test with real people in real environments and collect &#8230; </p>
+<p class="link-more"><a href="/blog/recruiting-beta-users-mvp-customer-research/" class="more-link">Continue reading<span class="screen-reader-text"> "Need Help Recruiting Beta Users for an MVP You&#8217;re Testing?"</span></a></p>
+<p>The post <a rel="nofollow" href="/blog/recruiting-beta-users-mvp-customer-research/">Need Help Recruiting Beta Users for an MVP You&#8217;re Testing?</a> appeared first on <a rel="nofollow" href="/">Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</a>.</p>
+]]></description>
+						<wfw:commentRss>/blog/recruiting-beta-users-mvp-customer-research/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">413</post-id>	</item>
+	</channel>
+</rss>

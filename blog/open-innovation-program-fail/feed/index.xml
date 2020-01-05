@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>
+	Comments on: Your Open Innovation Program is Going to Fail. Here&#8217;s Why.	</title>
+	<atom:link href="/blog/open-innovation-program-fail/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/open-innovation-program-fail/</link>
+	<description>Frameplay helps software companies achieve sustained growth through customer-centric practices.</description>
+	<lastBuildDate>Fri, 27 Oct 2017 13:05:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+</channel>
+</rss>

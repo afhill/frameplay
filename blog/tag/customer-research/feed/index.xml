@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>customer research &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<atom:link href="/blog/tag/customer-research/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Frameplay helps software companies achieve sustained growth through customer-centric practices.</description>
+	<lastBuildDate>Mon, 23 Oct 2017 00:11:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://i0.wp.com/frameplay.co/fc/wp-content/uploads/2017/03/cropped-icon-only-trans-1.png?fit=32%2C32</url>
+	<title>customer research &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">135574247</site>	<item>
+		<title>Investing for Your Product&#8217;s Retirement</title>
+		<link>/blog/investing-products-retirement/</link>
+				<comments>/blog/investing-products-retirement/#respond</comments>
+				<pubDate>Sat, 23 Sep 2017 18:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Hill]]></dc:creator>
+				<category><![CDATA[innovation portfolio]]></category>
+		<category><![CDATA[customer research]]></category>
+		<category><![CDATA[design thinking]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[investment]]></category>
+
+		<guid isPermaLink="false">/?p=149</guid>
+				<description><![CDATA[<p>Logic isn’t what drives our behavior. And it explains why so many companies aren’t investing in innovation.</p>
+<p>The post <a rel="nofollow" href="/blog/investing-products-retirement/">Investing for Your Product&#8217;s Retirement</a> appeared first on <a rel="nofollow" href="/">Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</a>.</p>
+]]></description>
+						<wfw:commentRss>/blog/investing-products-retirement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">149</post-id>	</item>
+		<item>
+		<title>Never Ask &#8220;Would You Use This Product?&#8221;</title>
+		<link>/blog/never-ask-use-product/</link>
+				<comments>/blog/never-ask-use-product/#respond</comments>
+				<pubDate>Mon, 16 Jan 2017 20:18:15 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Hill]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[customer research]]></category>
+
+		<guid isPermaLink="false">/?p=158</guid>
+				<description><![CDATA[<p>In his blog post “The One Customer Development Question You Need to Stop Asking Immediately“, Mike Fishbein cautions against asking Would you use this product during a customer interview. If you ask “would you use this product” during your customer interview, your potential customer may say yes or no. If he says no, you don’t know why. &#8230; </p>
+<p class="link-more"><a href="/blog/never-ask-use-product/" class="more-link">Continue reading<span class="screen-reader-text"> "Never Ask &#8220;Would You Use This Product?&#8221;"</span></a></p>
+<p>The post <a rel="nofollow" href="/blog/never-ask-use-product/">Never Ask &#8220;Would You Use This Product?&#8221;</a> appeared first on <a rel="nofollow" href="/">Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</a>.</p>
+]]></description>
+						<wfw:commentRss>/blog/never-ask-use-product/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">158</post-id>	</item>
+	</channel>
+</rss>

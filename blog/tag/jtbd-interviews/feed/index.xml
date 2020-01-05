@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>jtbd interviews &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<atom:link href="/blog/tag/jtbd-interviews/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Frameplay helps software companies achieve sustained growth through customer-centric practices.</description>
+	<lastBuildDate>Sun, 26 Nov 2017 20:11:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://i0.wp.com/frameplay.co/fc/wp-content/uploads/2017/03/cropped-icon-only-trans-1.png?fit=32%2C32</url>
+	<title>jtbd interviews &#8211; Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">135574247</site>	<item>
+		<title>Top 5 &#8220;Jobs To Be Done&#8221; Mistakes Product People Make</title>
+		<link>/blog/top-5-jobs-to-be-done-mistakes-product/</link>
+				<comments>/blog/top-5-jobs-to-be-done-mistakes-product/#respond</comments>
+				<pubDate>Tue, 24 Oct 2017 16:07:27 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Hill]]></dc:creator>
+				<category><![CDATA[jtbd]]></category>
+		<category><![CDATA[customer interviews]]></category>
+		<category><![CDATA[jtbd interviews]]></category>
+
+		<guid isPermaLink="false">/?p=516</guid>
+				<description><![CDATA[<p>Innovators, product managers and marketers alike are embracing the Jobs to be Done mindset to design and sell products customers love. Jobs to be Done: customers have progress they want to make in their lives. They hire products and services they believe will help them get the job done (under specific circumstances). There is no &#8230; </p>
+<p class="link-more"><a href="/blog/top-5-jobs-to-be-done-mistakes-product/" class="more-link">Continue reading<span class="screen-reader-text"> "Top 5 &#8220;Jobs To Be Done&#8221; Mistakes Product People Make"</span></a></p>
+<p>The post <a rel="nofollow" href="/blog/top-5-jobs-to-be-done-mistakes-product/">Top 5 &#8220;Jobs To Be Done&#8221; Mistakes Product People Make</a> appeared first on <a rel="nofollow" href="/">Innovation &amp; New Product Development | Frameplay | Ottawa, Canada | JTBD : Design Thinking : Workshops</a>.</p>
+]]></description>
+						<wfw:commentRss>/blog/top-5-jobs-to-be-done-mistakes-product/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">516</post-id>	</item>
+	</channel>
+</rss>
